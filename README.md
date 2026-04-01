@@ -1,5 +1,8 @@
 # 🔐 CS 6967 – Security Operations Lab Portfolio
 
+[For better view at the reports access this google drive folder here](https://drive.google.com/drive/folders/1b_F1ezYTKtIPmQ7Ji2od6yoKsIehnd5d?usp=share_link) 
+
+
 This repository contains hands-on cybersecurity labs and threat hunting exercises completed as part of **CS 6967: Security Operations** at the University of Utah.
 
 The work demonstrates practical experience in penetration testing, network security, intrusion detection, and digital forensics using real-world tools and simulated environments.
